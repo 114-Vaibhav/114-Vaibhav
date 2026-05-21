@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
-<h3 align="center">MCA'26 @ NIT Trichy | Frontend Developer | C++ Enthusiast</h3>
+<h3 align="center">MCA'26 @ NIT Trichy | Software Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=114-Vaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="114-Vaibhav" />
@@ -14,7 +14,7 @@
 - 🌱 Currently learning **React.js & Backend Development**
 - ⚡ Love building interactive web projects
 - 🧠 Interested in Problem Solving & Competitive Programming
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **vaibhavguptanitt@gmail.com**
 
 ---
 
